@@ -1,2 +1,2 @@
 music store data analysis
-this repository is for my sql project
+this repository is for data file for music store
